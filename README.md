@@ -1,5 +1,5 @@
 # 2020H-CR460-terraform-3
-## Création d'un petit déploiement IaaS en plusieurs modules
+## Création d'un petit déploiement IaaS en plusieurs modules.
 
 ### https://www.terraform.io/docs/modules/index.html
 
